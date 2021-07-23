@@ -26,7 +26,7 @@ if(keyWentDown(UP_ARROW)){
 	dog.addImage(happyDog);
 }
 drawSprites;
-  //add styles here
+  dog.display();
 
 }
 
